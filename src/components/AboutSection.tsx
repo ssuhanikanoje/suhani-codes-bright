@@ -5,8 +5,8 @@ import profilePhoto from "@/assets/profile-photo.jpg";
 const AboutSection = () => {
   const contactDetails = [
     { label: "Name", value: "Suhani Sudesh Kanoje" },
-    { label: "Email", value: "suhani.kanoje@email.com" },
-    { label: "Phone", value: "+91 98765 43210" },
+    { label: "Email", value: "ssuhanikanoje@gmail.com" },
+    { label: "Phone", value: "+91 8669054947" },
     { label: "Location", value: "Maharashtra, India" },
   ];
 
