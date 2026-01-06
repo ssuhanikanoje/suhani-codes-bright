@@ -12,7 +12,7 @@ const footerLinks = [
 const socialLinks = [
   { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
   { icon: Github, href: "https://github.com", label: "GitHub" },
-  { icon: Mail, href: "mailto:suhani.kanoje@email.com", label: "Email" },
+  { icon: Mail, href: "mailto:ssuhanikanoje@gmail.com", label: "Email" },
 ];
 
 const Footer = () => {
@@ -88,8 +88,8 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold mb-4">Contact</h4>
             <div className="space-y-2 text-muted-foreground">
-              <p>suhani.kanoje@email.com</p>
-              <p>+91 98765 43210</p>
+              <p>ssuhanikanoje@gmail.com</p>
+              <p>+91 8669054947</p>
               <p>Maharashtra, India</p>
             </div>
           </div>

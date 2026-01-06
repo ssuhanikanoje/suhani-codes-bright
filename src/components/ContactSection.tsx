@@ -9,14 +9,14 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 98765 43210",
-    href: "tel:+919876543210",
+    value: "+91 8669054947",
+    href: "tel:+918669054947",
   },
   {
     icon: Mail,
     label: "Email",
-    value: "suhani.kanoje@email.com",
-    href: "mailto:suhani.kanoje@email.com",
+    value: "ssuhanikanoje@gmail.com",
+    href: "mailto:ssuhanikanoje@gmail.com",
   },
   {
     icon: MapPin,
