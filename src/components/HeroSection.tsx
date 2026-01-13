@@ -96,7 +96,7 @@ const HeroSection = () => {
                 size="lg"
                 variant="outline"
                 className="border-primary text-primary hover:bg-primary hover:text-primary-foreground font-semibold px-8 transition-all hover:scale-105"
-                onClick={() => window.open("https://drive.google.com/uc?export=download&id=1RCr-1q6qg1at2PAqqS86ePQaQ1QcJ-8P", "_blank")}
+                onClick={() => window.open("https://drive.google.com/file/d/1RCr-1q6qg1at2PAqqS86ePQaQ1QcJ-8P/view", "_blank")}
               >
                 <Download className="w-5 h-5 mr-2" />
                 Download Resume
